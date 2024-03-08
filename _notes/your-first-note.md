@@ -1,127 +1,25 @@
 ---
-title: Your first seed
+title: 两年的德语学习总结
 ---
+如果从第一节在苏黎世的德语课算起，到今年二月份我正好学满了两年德语。这两年我一直生活在德语区，主要的生活过的城市有苏黎世和不来梅。虽然学习和生活语言是英语，但是出于兴趣还有生活必需，我一直在不间断地在课外时间上语言课，到今年二月考出了一份德语B2的证书。在这篇笔记里我想记录一下我这两年里和这门语言缠斗的过程，想法，还有一些非常个人的经验。
 
-### Welcome!
+## 德语课 Deutschstunden
+在来苏黎世之前我自己在网上随便找了一些教材入门，但是因为没有基础也没有语言环境，落地之后语言能力基本为0. 我对自己的自律程度有深刻了解，知道自己不上课，没有老师带着教的话，是绝对学不会这门语言的。所以开学前就开始盯着学校语言班的课，但可惜手速不够，在2021年秋季学期没有报上名。痛定思痛之后在之后的winter break里报上了语言中心的intensive course。相比于一周上一次的semester course， intensive course持续两周，每天9:00-15:00全德语教学，对于我的帮助其实比前者更大。
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+顺便在这里算一下我所有上过的德语课：
 
-### Link syntax
+- 2021-2022 Winter Break: Basic German A1.2 (Intensive)
+- 2022 Spring Semester: Basic German A2.1 (dropped)
+- 2022 Summer break: Basic German A2.2 (Intensive)
+- 2022 Fall Semester: Basic German Einstieg ins B2 (dropped) 
+- 2022-2023 Winter Break:
+  - B1 (intensive)
+  - B1.2 with Bremer Goethe Institut (Intensive)
+- 2023 Spring Semester:
+  - B2.2 with Bremer Goethe Institut 
+  - B2-C1 (free German course offered by Uni Bremem Student Union)
+- 2023 Summer Break: B2 (intensive)
+- 2023 Fall Semester: B2 (German speaking in real context)
+- Ongoing: German C1 in 2024 Spring Semester
 
-To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
-
-- Using the note title: [[a note about cats]]
-- Using the note's filename: [[cats]]
-- Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
-- Using the note's filename, with a label: [[cats|link to the note about cats using the note's filename]]
-
-You can organize notes in subdirectories and link them normally. For example, the links above all point to the `_notes/animals/cats.md` file. Here's another example: [[tigers]].
-
-Non-latin languages are supported: [[안녕하세요]]; so are accents/diacritics: [[bon appétit!]]
-
-Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the `your-first-note.md` file can be linked to with [[your first note]] or [[your-first-note]], or even [[yOuR-FiRsT Note]].
-
-In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
-
-Alternatively, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a Markdown link to the note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link (without the little arrow).
-
-Since the Web is all about HTML, you can always use plain HTML if you want, like this: <a class="internal-link" href="/cats">This is a link to the note about cats with HTML</a>.
-
-Of course, you can also link to external websites, like this: [this is a link to Wikipedia](https://wikipedia.org/). Again, you can use plain HTML if you prefer. Footnotes are also supported and will be treated like internal links.[^1] You can point to other notes in your footnotes.[^2]
-
-[^1]: This is a footnote. For more information about using footnotes, check out the [Markdown Guide](https://www.markdownguide.org/extended-syntax/#footnotes).
-[^2]: This is another footnote that links to the note about [[cats]]. You may also point to [[notes that do not exist]] if you wish.
-
-### Tweet embedding
-
-Note: This behavior is disabled by default for privacy reasons. See "Site configuration" section below to enable it.
-
-You may include a tweet URL on its own line (like below), and it would be replaced with an official Twitter embed if the site configuration demands it.
-
-https://twitter.com/jack/status/20
-
-### Media embedding
-
-You may embed media files within a note using HTML5 media tags. Here's an example for an audio file:
-
-"Jazzy Frenchy" by Benjamin Tissot from bensound.com
-<audio controls>
-  <source src="{{ site.baseurl }}/assets/jazzyfrenchy.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-### Site configuration
-
-Some behavior is configurable by tweaking the `_config.yml` file.
-
-**`use_html_extension`**: if you use a static host that doesn't support URLs that don't end with `.html` (such as Neocities), try changing the `use_html_extension` value to `true` in the `_config.yml` file and restart the Jekyll server (or re-build the site). This adds a `.html` extension to note URLs and may resolve issues with links. If you're still having trouble, I recommend using Netlify to host your digital garden: it's free, easy to use, and fully supports this template's features out of the box.
-
-**`open_external_links_in_new_tab`**: when set to `true`, this makes external links open in new tabs. Set to `false` to open all links in the current tab.
-
-**`embed_tweets`**: when set to `true`, tweet URLs on their own lines will be replaced with a Twitter embed. Default value is `false`.
-
-### Automatic bi-directional links
-
-Notice in the "Notes mentioning this note" section that there is another note linking to this note. This is a bi-directional link, and those are automatically created when you create links to other notes.
-
-### Link previews
-
-If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[a note about cats]].
-
-Links that have been previewed will be cached to avoid redundant requests.
-
-### Images and other Markdown goodies
-
-Finally, because you have the full power of Markdown in this template, you can use regular Markdown syntax for various formatting options.
-
-Lists work as expected:
-
-- List element A
-- List element B
-- List element C
-
-1. List element
-2. List element
-3. List element
-
-If you'd like to quote other people, consider using quote blocks:
-
-> Lorem ipsum dolor sit amet
-
-And of course, images look great:
-
-<img src="{{ site.baseurl }}/assets/image.jpg"/>
-
-You can also ==highlight some content== by wrapping it with `==`.
-
-Non-latin languages are supported too: ==你好==, ==안녕하세요==, ==こんにちは==.
-
-### Code syntax highlighting
-
-You can add code blocks with full syntax color highlighting by wrapping code snippet in triple backticks and specifying the type of the code (`js`, `rb`, `sh`, etc.):
-
-```js
-// Here's a bit of JavaScript:
-if (a === b || c == d)
-  console.log('hello!')
-```
-
-```rb
-# And now some Ruby
-def foo(bar)
-  "baz"
-end
-```
-
-```sh
-$ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
-```
-
-
-### Next steps
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to build your own digital garden based on this template is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-Go forth, have fun, and learn new something every day! ✌️
+这样一看，感觉德语就是我老本行之外多读的一个Minor（笑）上面没有特殊标记的，都是UZH语言中心提供的课，价格在80-100瑞不等，课程等级划分得非常详细，虽然很多同学对其质量褒贬不一，但我个人觉得还是很适合用来打基础的，老师们人也都很棒。
