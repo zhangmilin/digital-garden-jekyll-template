@@ -14,7 +14,7 @@ title: 两年的德语学习总结 Zusammenfassung des zweijährigen Deutschunte
 - 2022 Fall Semester: Basic German Einstieg ins B2 (dropped) 
 - 2022-2023 Winter Break:
   - B1 (intensive)
-  - B1.2 with Bremer Goethe Institut (Intensive)
+  - B1.2 with Bremer Goethe Institut (intensive)
 - 2023 Spring Semester:
   - B2.2 with Bremer Goethe Institut 
   - B2-C1 (free German course offered by Uni Bremem Student Union)
