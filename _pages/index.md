@@ -8,12 +8,9 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  "摇摇，走走，摆摆。只有这一个办法能摆脱他。他统治世界，但没有权力统领移动中的东西，他知道，我们身体的移动是神圣的，只有动起来、离开原地的时候，你才能逃脱他的魔掌。他统治的是一切静止的、冻结的物事，每一样被动的、怠惰的东西。" </br>摘自奥尔加·托卡尔丘克 《云游》
 </p>
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+<strong>All notes</strong>
 
 <strong>Recently updated notes</strong>
 
