@@ -35,11 +35,13 @@ title: 第一个全职工作offer
 所以在这里记录一下我申请了，但是没有拿到的工作机会。
 
 PhD：
-- PhD in social computing (HCI track), University of Zürich (with interview)
+- PhD in social computing (HCI track), University of Zurich (with interview)
 - PhD in social computing (algorithm auditing track), University of Zurich (with interview)
 - PhD in statistics and data science, University of Basel
 - PhD in computational social science, Technical University of Munich (with interview)
 - 3 research associate positions related to survey methodology, GESIS
+- PhD in psychological method, University of Jena (with interview)
+- PhD in political communication, University of Zurich (with interview)
 
 Corporate Jobs:
 - Intern B2B market intelligence, Ceresana, Germany
